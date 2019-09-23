@@ -1,0 +1,26 @@
+This project contains simple examples of geometric multigrid (GMG) solver and/or preconditioner application for the advection -- diffusion equations in 2D domain. 
+
+AdvectionDiffusion_FD_Dirichlet - contains implementation of the finite difference method in [0;1] \times [0;1] domain.
+AdvectionDiffusion_FD_Dirichlet - contains implementation of the pseudo spectral method in periodic [0;2\pi] \times [0;2\pi] domain.
+
+Figures are supplied for author's paper.
+It is available under GPLv2 licence. 
+
+
+Matlab example programs for geometric multigrid 
+preconditioning  for advection diffusion equations.
+Copyright (C) 2018-2019 Evstigneev Nikolay Mikhaylovitch
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
